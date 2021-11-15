@@ -27,4 +27,9 @@
     <string name="word_is">The word is…</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Muhammad Fauzan Abrar</string>
+    <string name="nim">D121191072</string>
+    <string name="matkul">Pemrograman Mobile Kelas C</string>
+    <string name="last_word_text">Last Word</string>
+    <string name="about_text">About</string>
 </resources>

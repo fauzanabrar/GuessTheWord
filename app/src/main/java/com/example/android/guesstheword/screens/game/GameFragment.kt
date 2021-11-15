@@ -72,6 +72,7 @@ class GameFragment : Fragment() {
         val action = GameFragmentDirections.actionGameToScore()
 
         action.score = viewModel.score
+        action.lastWord = viewModel.word
         NavHostFragment.findNavController(this).navigate(action)
     }
 
