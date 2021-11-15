@@ -22,7 +22,7 @@
     <fragment
         android:id="@+id/title_destination"
         android:name="com.example.android.guesstheword.screens.title.TitleFragment"
-        android:label="title_fragment"
+        android:label="Guess Word"
         tools:layout="@layout/title_fragment">
         <action
             android:id="@+id/action_title_to_game"
@@ -36,7 +36,7 @@
     <fragment
         android:id="@+id/game_destination"
         android:name="com.example.android.guesstheword.screens.game.GameFragment"
-        android:label="game_fragment"
+        android:label="Guess Word"
         tools:layout="@layout/game_fragment">
         <action
             android:id="@+id/action_game_to_score"
@@ -51,7 +51,7 @@
     <fragment
         android:id="@+id/score_destination"
         android:name="com.example.android.guesstheword.screens.score.ScoreFragment"
-        android:label="score_fragment"
+        android:label="Score"
         tools:layout="@layout/score_fragment">
         <action
             android:id="@+id/action_restart"
@@ -67,12 +67,12 @@
             app:argType="integer" />
         <argument
             android:name="lastWord"
-            app:argType="string"
-            android:defaultValue="tes" />
+            android:defaultValue="tes"
+            app:argType="string" />
     </fragment>
     <fragment
         android:id="@+id/aboutFragment"
         android:name="com.example.android.guesstheword.AboutFragment"
-        android:label="AboutFragment"
-        tools:layout="@layout/fragment_about"/>
+        android:label="@string/about_text"
+        tools:layout="@layout/fragment_about" />
 </navigation>

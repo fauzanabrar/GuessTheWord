@@ -48,8 +48,11 @@ class ScoreFragment : Fragment() {
                 container,
                 false
         )
-        val finalScore = ScoreFragmentArgs.fromBundle(requireArguments()).score
-        val lastWord = ScoreFragmentArgs.fromBundle(requireArguments()).lastWord
+        val args = ScoreFragmentArgs.fromBundle(requireArguments())
+        val finalScore = args.score
+        val lastWord = args.lastWord
+
+
         viewModelFactory = ScoreViewModelFactory(finalScore,lastWord)
 
         viewModel = ViewModelProvider(this, viewModelFactory).get(ScoreViewModel::class.java)
