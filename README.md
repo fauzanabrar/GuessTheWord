@@ -9,6 +9,17 @@ Introduction
 This starter app is a two player game, GuessTheWord. It is a word guessing app you can play with one or more friends. To play, hold the device in landscape, facing away from you with your thumbs on the **Skip** and **Got It** buttons. Your friends can then give you clues to help you guess the word. If you get the word right, press **Got It**. If you're stuck, press **Skip**.
 You will modify the app to use Architecture components and best practices.
 
+Preview
+--------------
+
+
+![title](https://user-images.githubusercontent.com/89562897/141716160-60576d07-e468-4ba7-a5a2-524db54557b3.png)
+![game](https://user-images.githubusercontent.com/89562897/141716174-5b892398-b811-4059-9ab8-505084bce71a.png)
+![score](https://user-images.githubusercontent.com/89562897/141716181-0533ebce-174d-45cb-a2f0-e4aa4d6eb72c.png)
+![option_menu](https://user-images.githubusercontent.com/89562897/141716192-b1556356-e9c3-4193-bb97-96e979275faf.png)
+![about](https://user-images.githubusercontent.com/89562897/141715922-d91c60ce-4e0e-4986-ac99-2409cdcbc305.png)
+
+
 Pre-requisites
 --------------
 
