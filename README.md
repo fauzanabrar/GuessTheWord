@@ -12,14 +12,12 @@ You will modify the app to use Architecture components and best practices.
 Preview
 --------------
 
-![title](https://user-images.githubusercontent.com/89562897/141715628-f454d375-c86c-4a12-b0f6-c32b26d15d24.png)
-![game](https://user-images.githubusercontent.com/89562897/141715637-25f8a01b-653a-477d-9eef-00fa8c12d060.png)
-![score](https://user-images.githubusercontent.com/89562897/141715645-c1353eed-3ad8-4c35-849b-1df2ebb138cb.png)
-![option_menu](https://user-images.githubusercontent.com/89562897/141715662-2d76bc38-cde6-4f23-a2b8-a22ed5662a73.png)
-![about](https://user-images.githubusercontent.com/89562897/141715673-7e31d644-df34-4b4d-953b-ed5354c34372.png)
+
+![title](https://user-images.githubusercontent.com/89562897/141716160-60576d07-e468-4ba7-a5a2-524db54557b3.png)
+![game](https://user-images.githubusercontent.com/89562897/141716174-5b892398-b811-4059-9ab8-505084bce71a.png)
+![score](https://user-images.githubusercontent.com/89562897/141716181-0533ebce-174d-45cb-a2f0-e4aa4d6eb72c.png)
+![option_menu](https://user-images.githubusercontent.com/89562897/141716192-b1556356-e9c3-4193-bb97-96e979275faf.png)
 ![about](https://user-images.githubusercontent.com/89562897/141715922-d91c60ce-4e0e-4986-ac99-2409cdcbc305.png)
-
-
 
 
 Pre-requisites
