@@ -17,6 +17,8 @@ Preview
 ![score](https://user-images.githubusercontent.com/89562897/141715645-c1353eed-3ad8-4c35-849b-1df2ebb138cb.png)
 ![option_menu](https://user-images.githubusercontent.com/89562897/141715662-2d76bc38-cde6-4f23-a2b8-a22ed5662a73.png)
 ![about](https://user-images.githubusercontent.com/89562897/141715673-7e31d644-df34-4b4d-953b-ed5354c34372.png)
+![about](https://user-images.githubusercontent.com/89562897/141715922-d91c60ce-4e0e-4986-ac99-2409cdcbc305.png)
+
 
 
 
